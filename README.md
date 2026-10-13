@@ -1,16 +1,17 @@
-## Hi there 👋
+# Я студент ИТМО который учиться умно думать 👋
+не знаю что писать поэтому пишу  разные слова
+# Хобби 
+| игры | что там делается|
+|:--|:--|
+| танки | просто танчики катаются 15 на 15|
+| Valorant | тоже самое что кс только со способностями|
+| Brawl stars | тут слишком много рассказывать спрашивайте у втароклашек|
+>я не игроман я просто много играю
+>я программист но не умею прогать 
 
-<!--
-**GranZa38/GranZa38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Статистика
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=GranZa38&theme=radical)
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GranZa38&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
